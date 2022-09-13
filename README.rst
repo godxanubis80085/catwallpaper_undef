@@ -1,6 +1,6 @@
 What it does?
 ===============
-It does web scraping with python and downloads random cat images and applies it as your wallpaper acc to your operating system
+Puts random cat images and applies it as your wallpaper.
 
 Supported platforms
 ===============
